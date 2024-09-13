@@ -7,8 +7,3 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 
 [Reddit-Extended]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
