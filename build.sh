@@ -178,7 +178,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store"
+log "\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store\n"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
