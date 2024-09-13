@@ -5,5 +5,5 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 
 # you can use rvmm-config-gen to generate a config
 
-[Reddit-Extended]
+[Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
