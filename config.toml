@@ -7,3 +7,5 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+version = "auto"
+arch = "both"
