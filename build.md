@@ -4,5 +4,5 @@ Reddit (arm-v7a): 2024.17.0
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.15.0.apk  
-Patches: ReVanced/revanced-patches-4.16.0.jar    
+Integrations: ReVanced/revanced-integrations-1.16.0.apk  
+Patches: ReVanced/revanced-patches-4.17.0.jar    
