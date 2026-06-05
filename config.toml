@@ -6,6 +6,12 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 # you can use rvmm-config-gen to generate a config
 
 [Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-version = "auto"
-arch = "both"
+app-name = "Reddit"
+rv-brand = "Morphe"
+build-mode = "apk"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+dpi = "120-640dpi"
