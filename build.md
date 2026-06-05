@@ -1,7 +1,8 @@
-Reddit (arm-v7a): 2024.17.0  
-Reddit (arm64-v8a): 2024.17.0  
+Reddit: 2026.14.0  
 
+Remember to Install [Microg](https://github.com/ReVanced/GmsCore/releases) OR [MicroG-RE](https://github.com/WSTxda/MicroG-RE)  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.34.0.rvp    
+CLI: MorpheApp/morphe-cli-1.9.0-all.jar  
+Patches: MorpheApp/patches-1.30.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.30.0)  
