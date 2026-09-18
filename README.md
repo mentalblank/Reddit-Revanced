@@ -1,5 +1,7 @@
 # Reddit - Morphe (Auto-Build)
 
+Patched with [morphe-patches](https://github.com/MorpheApp/morphe-patches), built in `arm64-v8a` and `arm-v7a`.
+
 ## Installation
 
 1. Install the latest version of [Build APK](https://github.com/MentalBlank/Reddit-Revanced/releases/latest).
@@ -7,10 +9,25 @@
 
 ## Patches
 
-- Hide Ads.
-- Disable the popup that shows when taking a screenshot.
-- Unlock premium Reddit app icons.
-- Remove tracking query parameters from URLs when sharing links.
+17 of the 23 available patches are applied by default:
+
+- Hide ads
+- Custom font · Force system font
+- Hide Ask button
+- Hide communities shelf
+- Disable modern home
+- Hide navigation buttons
+- Disable screenshot popup
+- Hide sidebar components
+- Remove subreddit dialog
+- Hide Trending shelves
+- Show view count
+- App icon — unlocks premium Reddit app icons
+- Spoof signature
+- Open links directly · Open links externally
+- Sanitize sharing links
+
+Available but off by default: Clone app, Change installer source, Override certificate pinning, Disable Play Store updates, Custom branding name for Reddit, Hide Reddit search.
 
 ## Disclaimer
 
@@ -22,4 +39,4 @@ This patch modifies the original APK, and may violate the app provider's terms o
 
 ## Thanks To:
 
-[j-hc](https://github.com/j-hc) & [ReVanced](https://github.com/ReVanced) & [De-ReVanced](https://github.com/RookieEnough/) & [Morphe](https://github.com/MorpheApp/)
+[j-hc](https://github.com/j-hc) & [Morphe](https://github.com/MorpheApp/)
